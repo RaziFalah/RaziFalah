@@ -1,8 +1,4 @@
-- � Hi, I’m @RaziFalah
-- � I’m interested in Cyber security, High-level programming languages, Main and basic programming languages, dsign, development, Maths
-- � I’m getting better at cyber security and internet crimes
-- � in the future I’m welling to make my own high-technolgy company, wish me luck
-- � How to reach me
+Hello, world!
 Email: i@razifalah.com
 Phone number: +972-52-3075200
 
