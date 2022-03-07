@@ -4,4 +4,4 @@
 
 Email: i@razifalah.com<br>
 Phone number: +972-52-3075200<br>
-[or submit my form]https://razifalah.github.io/Outstageed.com/#contact
+[or submit my form](https://razifalah.com/Contact/)
