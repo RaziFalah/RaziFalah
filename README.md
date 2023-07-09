@@ -1,4 +1,4 @@
-<h1>Once you standup everyone is going to see it!</h1>
+<h1>Hey there!</h1>
 
 
 
@@ -6,8 +6,10 @@
 
 ```py
 
-Sudo change_the_world --Make_better
-root@razifalah:~# Password:
+razi@razi:~$ Su -
+root@razi:~# Make A-change
+
+
 
 ```
 
