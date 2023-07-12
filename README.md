@@ -15,7 +15,7 @@ root@razi:~# Make A-change
 
 Email: i@razifalah.com<br>
 Phone number: +972-52-3075200<br>
-[or submit my form](https://razifalah.com/Contact/)
+You can also contact me via [Chat](https://razifalah.com/Contact/) or [email address](mailto:i@razifalah.com)
 
 
 <h1>About outstageed</h1>
