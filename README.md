@@ -48,6 +48,7 @@ Project is indevelopment by razifalah.com Team
 
 
 <h1>(2) Smart agriculture house</h1>
+<a href="https://github.com/RaziFalah/electronics-project">Visit project</a>
 <center><image src="https://github.com/RaziFalah/electronics-project/blob/main/digrams/prototype.png?raw=true"></image></center>
 <h1>Features</h1>
 <h3>Water supplying:</h3>
