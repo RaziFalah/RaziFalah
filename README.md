@@ -1,10 +1,7 @@
-<div style="text-align: center;">
-<h1 style=font-size:200px>Recent projects</h1></div>
-
 ***Come along and join the voyage***
 
 
-<h2>(1) Outstageed.com</h2>
+<h1>(1) Outstageed.com</h1>
 
 ![Screenshot from 2023-07-10 01-55-13](https://github.com/RaziFalah/RaziFalah/assets/92949627/850204c7-6223-4e5d-a3b2-597e47b9cab8)
 
@@ -50,7 +47,7 @@ Project is indevelopment by razifalah.com Team
 <p>Please be aware this is a beta feed page for testing and will not be officially released</p>
 
 
-<h2>(2) Smart agriculture house</h2>
+<h1>(2) Smart agriculture house</h1>
 <center><image src="https://github.com/RaziFalah/electronics-project/blob/main/digrams/prototype.png?raw=true"></image></center>
 <h1>Features</h1>
 <h3>Water supplying:</h3>
