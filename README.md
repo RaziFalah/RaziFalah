@@ -47,7 +47,7 @@ Project is indevelopment by razifalah.com Team
 <p>Please be aware this is a beta feed page for testing and will not be officially released</p>
 
 
-<h1>Introduction</h1>
+<h1>Introduction to the smart argiculture house</h1>
 <p>This agriculture project is powered by arduino ESP32 micro-controller, this projects aims towards building a smart agriculture house containing a handful amount of sensors in order to achieve a smarter way of monitoring plants. it's equipped with state-of-the-art security measurements and immediate alarms and protective actions.</p>
 <br>  
 
