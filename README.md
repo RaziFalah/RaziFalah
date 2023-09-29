@@ -54,7 +54,7 @@ Project is indevelopment by razifalah.com Team
 ***The following image contains a prototype describing how the system works.***
 
 <br>
-<center><image src="digrams/prototype.png"></image></center>
+<center><image src="https://raw.githubusercontent.com/RaziFalah/agriculture-project/main/digrams/prototype.png"></image></center>
 <h1>Features</h1>
 <h4>Water supplying:</h4>
 In this feature there will be a connected water supply tube to every plant in the system, the water will be supplied depending on Whether the ground is dry or not.<br>There will be a wiether check using an API  when the day is rainy the water supplying will be skipped.
@@ -74,7 +74,7 @@ Responsible for providing plants with lights if needed, determined using a photo
 
 ***Exampe of the code running in the ESP32 based on the API data***
 
-<image src="digrams/esp32_prototype.png">
+<image src="https://raw.githubusercontent.com/RaziFalah/agriculture-project/main/digrams/esp32_prototype.png">
 
 <h1>Components</h1>
 <h4>Needed components</h4>
@@ -98,34 +98,34 @@ Responsible for providing plants with lights if needed, determined using a photo
 <h1>Functions</h1>
 <h4>API Connection</h4>
 <p>ESP32-WIFI connection code with openweather API using http request</p>
-<a href="code/main.cpp">View API http call code & init wifi at the main file here.</a><br>
-<a href="tests/API_testing.md">View API http call sandbox test here (Not a real API).</a>
+<a href="https://raw.githubusercontent.com/RaziFalah/agriculture-project/main/code/main.cpp">View API http call code & init wifi at the main file here.</a><br>
+<a href="https://raw.githubusercontent.com/RaziFalah/agriculture-project/main/tests/API_testing.md">View API http call sandbox test here (Not a real API).</a>
 <hr>
 
 ***Exampe of the code running in the ESP32 according to the API data with LCD display***<br>
-<image src="digrams/esp32_lcd.png"><br>
-<a href="code/main_lcd.cpp">View LCD display containing weather and alarm data code here.</a><br>
+<image src="https://raw.githubusercontent.com/RaziFalah/agriculture-project/main/digrams/esp32_lcd.png"><br>
+<a href="https://raw.githubusercontent.com/RaziFalah/agriculture-project/main/code/main_lcd.cpp">View LCD display containing weather and alarm data code here.</a><br>
 
 <hr>
 
 
 **No need for testing, device is operating successfuly and same as the pervious test**
-<br><image src="digrams/lcd_prototype.gif.gif"><br>
+<br><image src="https://raw.githubusercontent.com/RaziFalah/agriculture-project/main/digrams/lcd_prototype.gif.gif"><br>
 
 <hr>
 
 ***Example of the demo alarm system***
 
-<image src="digrams/led_lcd_esp32.gif"><br>
+<image src="https://raw.githubusercontent.com/RaziFalah/agriculture-project/main/digrams/led_lcd_esp32.gif"><br>
 
 <p>This alarm system is not yet finished and waiting for a speaker alarm and more extra leds to be added.</p>
-<a href="https://github.com/RaziFalah/agriculture-project/blob/main/video%20log/2023-09-18_14-13-18.mp4">Download video here</a>
+<a href="https://raw.githubusercontent.com/RaziFalah/agriculture-project/blob/main/video%20log/2023-09-18_14-13-18.mp4">Download video here</a>
 
 <hr>
 
 ***example of light supplier***
 
-<image src="digrams/light_supplier.gif"><br>
+<image src="https://raw.githubusercontent.com/RaziFalah/agriculture-project/main/digrams/light_supplier.gif"><br>
 
 <p>This light supplier works only in the day, it determines if it should run or not based on Openweather API to get night/day status and also a light sensor.</p>
 
