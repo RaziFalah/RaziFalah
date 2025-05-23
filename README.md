@@ -57,19 +57,19 @@ Project is indevelopment by razifalah.com Team
 <center><image src="https://raw.githubusercontent.com/RaziFalah/agriculture-project/main/digrams/prototype.png"></image></center>
 <h1>Features</h1>
 <h4>Water supplying:</h4>
-In this feature there will be a connected water supply tube to every plant in the system, the water will be supplied depending on Whether the ground is dry or not.<br>There will be a wiether check using an API  when the day is rainy the water supplying will be skipped.
+Like the name this feature will supply water to the plants in the agri-house, there will be a connected water supply tube to every plant in the system, the water will be supplied depending on many factors like whether the soil is dry or not.<br>As well as weather status, a working API will provide us with information, based on them, the system will supply water. for instance, when the day is rainy the water supplying will be skipped, low humidiy equals more water is needed.
 <h4>Humidity monitoring</h4>
-The system will counduct humidity check only if the Humidity level is unacceptable there will be a warning to the web interface and also a sonic warning. (Humidity checks will be virtual and powered by OpenWeather API).
+The system will counduct a humidity check as frequently as we choose, if the humidity level happens to be abnormal there will be a warning, which can be viewed in the web interface, a sonic warning might be triggred in extreme cases. (Humidity checks will be powered by OpenWeather API).
 <h4>Temperature monitoring</h4>
-The system will conduct a temperature check if the temperature is unacceptable there will be a warning pop up on the web interface and also a sonic warning. (Temperature checks will be virtual and powered by OpenWeather API).
+Same as mentioned earlier regarding the humidity monitoring the system will conduct a temperature check automatically, in case of abnormal temperature a warning will pop up on the web interface a sonic alarm might be triggred in cases where immediate action is required. (Temp check are powered by a sensor for indoors accuracy as well as an API mostly used for outdoor temp monitoring).
 <h4>Fire and gas alarm</h4>
-If a fire or a gas leak was detected by the system the system will automatically signal a sonic alarm and also a popup on the web interface and overwork the water supplying
+If a fire or a gas leak was detected by the system, there will be an immediate sonic alarm and also a pop up on the web interface asking for immediate intervention, in extreme cases, the system will initiate a flood protocol which means the water pump will work at high capacity and fans will shut off.
 <h4>Web interface</h4>
-Responsible for handiling pop-up alarms.
+Responsible for handiling pop-up alarms as well as API manipulations (for testin).
 <h4>LCD display system</h4>
-Responsible for handiling alarms and weather data.
+Responsible for outputting basic data.
 <h4>Artificial lighting system</h4>
-Responsible for providing plants with lights if needed, determined using a photoresistor or time table. <br>
+Responsible for providing plants with lights if needed, determined using a photoresistor and a time-table, in case of weather changes, the time-table will be overrode or ajusted. <br>
 <br><hr>
 
 ***Exampe of the code running in the ESP32 based on the API data***
