@@ -6,6 +6,21 @@
 razi@razi:~$ sudo make --it-count
 ```
 
+> *"Why survive the chaos, when you can build something that watches it burn?"*
+
+Systems thinker, code poet, and part-time existential crisis machine.
+
+- 🧠 Electronics + software = home
+- 🎯 Building real-world solutions in a world that refuses to stay still
+- ☄️ Creator of [MissileDetectionOverRTSP](https://github.com/RaziFalah/MissileDetectionOverRTSP) — because if the sirens won’t warn you in time, my code will.
+
+### 🔍 Random Facts
+- I test code under missile sirens.  
+- I think heartbreak and machine learning use the same error function.  
+- Fiction doesn’t disappoint me — so I write my own in hardware and code.
+
+
+
 ---
 
 ### ⚙️ Currently Building
@@ -75,6 +90,15 @@ razi@razi:~$ sudo make --it-count
 📷 [Instagram – Electronics Projects](https://instagram.com/razifalah9)
 
 ---
+
+### 💬 Let’s talk:
+If you want to collab, hire, or just exchange war stories —  
+I’m open. Just bring something real.
+
+---
+
+🖤 *"Built in the bunker. Shipped with scars."*
+
 
 ```bash
 root@razi:~# exit
